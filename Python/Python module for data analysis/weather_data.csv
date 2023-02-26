@@ -1,0 +1,8 @@
+date,temperature,windspeed,event
+1/2/2023',32,6,rain'
+2/2/2023',34,8,rain'
+3/2/2023',28,3,rain'
+4/2/2023',30,4,sunny'
+5/2/2023',35,5,snow
+6/2/2023',42,6,sunny'
+7/2/2023',38,2,snow
